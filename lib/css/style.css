@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Courgette&family=Kalam:wght@700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: "Kalam", 'cursive';
+  background-color: #242424;
+  color: rgba(245, 245, 18, 0.932) !important;
+  
+}
+.navbar-brand , .nav-link{
+  color: rgba(245, 245, 18, 0.932) !important;
+}
+.my-info{
+  padding: 1rem;
+  padding-top: 3rem;
+}
+section{
+  margin-top: 1rem;
+  padding: 2rem ;
+}
+.mySkills {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+.mySkills h1 {
+  color: #3fb180;
+  font-size: 2rem;
+}
+
+.cards-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card {
+  background-color: #242424;
+  box-sizing: border-box;
+  height: auto;
+  width: calc(100% / 4);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  margin: 20px;
+  border-radius: 10px;
+}
+.card .header {
+  height: auto;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  background: coral;
+  color: white;
+  font-family: "Playfair Display", serif;
+  font-size: 25px;
+  clip-path: circle(60% at 0% 0%);
+  transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.card .header img {
+  width: 100px;
+  height: 100px;
+}
+.card:hover .header h4 {
+  opacity: 1;
+}
+.card .header h3,
+.card .header h4 {
+  margin: 0 !important;
+  padding: 0;
+}
+.card .description {
+  padding: 20px;
+  font-family: "Nunito", sans-serif;
+}
+
+/* dual colors */
+.card.dual .header {
+  background: #3fb180;
+}
+.card.dual .description {
+  clip-path: circle(20% at 100% 100%);
+  transition: all cubic-bezier(0.645, 0.045, 0.355, 1) 0.5s;
+  background: #3fb1803d;
+  height: auto;
+  transition: all ease-in-out 0.7s;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  color: white;
+}
+.card.dual {
+  position: relative;
+}
+.card.dual h2 {
+  position: absolute;
+  right: 0%;
+  padding: 20px;
+  color: #52e2a4;
+}
+.card.dual:hover .description {
+  clip-path: circle(100% at 50% 0%);
+  background: purple;
+}
+.card.dual:hover .header {
+  clip-path: circle(100% at 50% 50%);
+  background: #3fb180;
+}
+.header img {
+  transition: 1s ease;
+}
+.card.dual:hover .header img {
+  margin-left: calc((100% - 100px) / 2);
+  transition: 1s ease;
+}
+@media (max-width: 800px){
+  .cards-wrapper {
+    flex-direction: column;
+  }
+  .card {
+    width: 100%;
+  }
+  .mySkills h1 {
+    font-size: 45px !important;
+  }
+  .mySkills {
+    width: 90%;
+  }
+}
