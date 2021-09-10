@@ -114,10 +114,26 @@ section{
 .header img {
   transition: 1s ease;
 }
+
 .card.dual:hover .header img {
   margin-left: calc((100% - 100px) / 2);
   transition: 1s ease;
 }
+
+li{
+  margin-top: 1rem;
+  font-size: large;
+}
+li> a {
+  color: #3fb180;
+ 
+}
+.modal-content{
+  background-color: #393939 !important;
+  padding: 20px;
+  color: #3fb180;
+}
+
 @media (max-width: 800px){
   .cards-wrapper {
     flex-direction: column;
