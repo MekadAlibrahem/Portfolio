@@ -133,6 +133,14 @@ li> a {
   padding: 20px;
   color: #3fb180;
 }
+.img-project{
+  min-height: 100%;
+  
+}
+/* project page style */
+.card-project>div>.col-md-8>.card-body>.card-title{
+  color: #3fb180;
+}
 
 @media (max-width: 800px){
   .cards-wrapper {
@@ -146,5 +154,9 @@ li> a {
   }
   .mySkills {
     width: 90%;
+  }
+  .img-project{
+    max-height: 200px;
+    min-width: 100%;
   }
 }
