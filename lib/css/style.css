@@ -142,6 +142,7 @@ li> a {
   color: #3fb180;
 }
 
+
 @media (max-width: 800px){
   .cards-wrapper {
     flex-direction: column;
