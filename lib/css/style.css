@@ -143,6 +143,22 @@ li> a {
 }
 
 
+/* design page sstyle */
+#hr-div{
+  margin: 3rem;
+  width: auto;
+  border-top: 1px solid rgba(245, 245, 18, 0.932);
+}
+.title-section{
+  display: inline;
+  color: #52e2a4;
+  border-bottom: 1px solid red;
+  
+}
+.cards-design{
+  margin-top: 2rem;
+}
+/*  mopile style  index and design   pages */
 @media (max-width: 800px){
   .cards-wrapper {
     flex-direction: column;
