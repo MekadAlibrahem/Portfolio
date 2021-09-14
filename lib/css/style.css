@@ -8,8 +8,10 @@ body{
   font-family: "Kalam", 'cursive';
   background-color: #242424;
   color: rgba(245, 245, 18, 0.932) !important;
+  font-size: x-large;
   
 }
+
 .navbar-brand , .nav-link{
   color: rgba(245, 245, 18, 0.932) !important;
 }
@@ -133,12 +135,15 @@ li> a {
   padding: 20px;
   color: #3fb180;
 }
+.card-title{
+  color: #3fb180; ;
+}
 .img-project{
   min-height: 100%;
   
 }
 /* project page style */
-.card-project>div>.col-md-8>.card-body>.card-title{
+.card-project>div>.col-md-8>.card-body>.card-title {
   color: #3fb180;
 }
 
@@ -157,6 +162,9 @@ li> a {
 }
 .cards-design{
   margin-top: 2rem;
+}
+.btn-download{
+  margin-left: 20px;
 }
 /*  mopile style  index and design   pages */
 @media (max-width: 800px){
