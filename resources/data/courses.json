@@ -1,0 +1,25 @@
+{
+    "courses" :[
+        {
+            "from" : "Coursera" ,
+            "title" : "Python for Everybody" ,
+            "type" : "Sapecialization" ,
+            "date" : "2021 -07" ,
+            "link" : "https://WWW.coursera.org/account/accomplishments/specialization/certificate/82FJHQACSZGR"
+        },
+        {
+            "from" : "Coursera" ,
+            "title" : "Web Design for Everybody : Basics of Web Development and Coding" ,
+            "type" : "Sapecialization" ,
+            "date" : "2021 -06" ,
+            "link" : "https://www.coursera.org/account/accomplishments/specialization/certificate/X4HAKQC23Y8L"
+        },
+        {
+            "from" : "Coursera" ,
+            "title" : "Web Applications for Everybody " ,
+            "type" : "Sapecialization" ,
+            "date" : "2022 -03" ,
+            "link" : "https://www.coursera.org/account/accomplishments/specialization/certificate/4HNF7HZHD3R9"
+        }
+    ]
+}
