@@ -1,0 +1,26 @@
+{
+    "project":[
+        {
+            "name" : "Elections Automation  Website" ,
+            "image" : "resources/images/projects/EAWlogo.PNG" ,
+            "description" : " Automation of electoral processes and their management and provision of statistics and results " ,
+            "tech" : [ 
+               " HTML" , "CSS ", "JAVASCRIPT" , "bootstrap" , "AJAX", "PHP" , "MYSQL" , "APIFACE.js" 
+            ], 
+            "version" :  1.0 ,
+            "link_repo" : "https://github.com/MekadAlibrahem/election-process" ,
+            "link_info" : "https://mekadalibrahem.github.io/election-process/index.html"
+        },
+        {
+            "name" : "Share File Web Site" ,
+            "image" : "resources/images/projects/mediashare/1.png" ,
+            "description" : " stored File And Share it with other" ,
+            "tech" : [ 
+                "HTML" , "CSS" , "JAVASCRIPT" , "Jquery", "bootstrap" , "AJAX"  ,"validateJquery" , "ZIPJS", "PHP" , "MYSQL" 
+            ], 
+            "version" :  1.0 ,
+            "link_repo" : "https://github.com/MekadAlibrahem/MediaShare" ,
+            "link_info" : "#"
+        }
+    ]
+}
