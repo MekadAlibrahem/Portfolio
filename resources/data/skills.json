@@ -2,84 +2,84 @@
     "skill" : [
         {
             "name"  :  "HTML" , 
-            "image" : "resources/images/skills/html.png" ,
+            "image" : "Portfolio/resources/images/skills/html.png" ,
             "description" : "HTML" ,
             "progress" : 75  
 
         },
         {
             "name"  :  "CSS" , 
-            "image" : "resources/images/skills/css.png" ,
+            "image" : "Portfolio/resources/images/skills/css.png" ,
             "description" : "CSS" ,
             "progress" : 75 
 
         },
         {
             "name"  :  "JAVASCRIPT" , 
-            "image" : "resources/images/skills/js.png" ,
+            "image" : "Portfolio/resources/images/skills/js.png" ,
             "description" : "JAVASCRIPT" ,
             "progress" : 75 
 
         },
         {
             "name"  :  "jQUERY" , 
-            "image" : "resources/images/skills/jquery.png" ,
+            "image" : "Portfolio/resources/images/skills/jquery.png" ,
             "description" : "JQUERY" ,
             "progress" : 75 
 
         },
         {
             "name"  :  "PHP" , 
-            "image" : "resources/images/skills/php.png" ,
+            "image" : "Portfolio/resources/images/skills/php.png" ,
             "description" : "PHP" ,
             "progress" : 90 
 
         },
         {
             "name"  :  "SQL" , 
-            "image" : "resources/images/skills/mysql.png" ,
+            "image" : "Portfolio/resources/images/skills/mysql.png" ,
             "description" : "MYSQL - SQLLITE - SQL" ,
             "progress" : 70 
 
         },
         {
             "name"  :  "NODE JS" , 
-            "image" : "resources/images/skills/node.png" ,
+            "image" : "Portfolio/resources/images/skills/node.png" ,
             "description" : "NODE FRAMEWORK \n I'm learning it now" ,
             "progress" : 10 
 
         },
         {
             "name"  :  "LARAVEL" , 
-            "image" : "resources/images/skills/laravel.png" ,
+            "image" : "Portfolio/resources/images/skills/laravel.png" ,
             "description" : "LARAVEL FRAMEWORK" ,
             "progress" : 50 
 
         },
         {
             "name"  :  "C#" , 
-            "image" : "resources/images/skills/c_sharp.png" ,
+            "image" : "Portfolio/resources/images/skills/c_sharp.png" ,
             "description" : "C#" ,
             "progress" : 50 
 
         },
         {
             "name"  :  "JAVA" , 
-            "image" : "resources/images/skills/java2.png" ,
+            "image" : "Portfolio/resources/images/skills/java2.png" ,
             "description" : "JAVA" ,
             "progress" : 50 
 
         },
         {
             "name"  :  "PYTHON" , 
-            "image" : "resources/images/skills/python.png" ,
+            "image" : "Portfolio/resources/images/skills/python.png" ,
             "description" : "PYTHON" ,
             "progress" : 75 
 
         },
         {
             "name"  :  "GITHUB" , 
-            "image" : "resources/images/skills/github.png" ,
+            "image" : "Portfolio/resources/images/skills/github.png" ,
             "description" : "GITHUB" ,
             "progress" : 75 
 
