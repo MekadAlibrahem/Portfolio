@@ -1,0 +1,21 @@
+{
+    "Education" : [
+        {
+            "from" : "Jami`t Al-Ba`ath " ,
+            "title" : "Technical Diploma is Software Engineering" ,
+            "darag" : 0 ,
+            "date_start" : "2019 - 10" ,
+            "date_end" : "2021 - 07"
+
+        },
+        {
+            "from" : "Jami`t Al-Ba`ath " ,
+            "title" : " IT-Engineering" ,
+            "darag" : 0 ,
+            "date_start" : "2021 - 10" ,
+            "date_end" : "not End yet"
+
+        }
+
+    ]
+}
