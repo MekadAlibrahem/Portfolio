@@ -3,7 +3,7 @@
         
         {
             "title" : "3-column-preview-card" ,
-            "image" : "resources/images/3-colomon-desktop-preview.jpg" ,
+            "image" : "resources/images/components/3-colomon-desktop-preview.jpg" ,
             "tech"  : [ "HTML" , "CSS" ],
             "view_links" : "https://mekadalibrahem.github.io/front-end/3-column-preview-card-component-main/index.html" ,
             "source_link" : "https://github.com/MekadAlibrahem/front-end/tree/master/3-column-preview-card-component-main"
@@ -11,7 +11,7 @@
         },
         {
             "title" : "four-card-desktop-preview" ,
-            "image" : "resources/images/four-card-desktop-preview.jpg" ,
+            "image" : "resources/images/components/four-card-desktop-preview.jpg" ,
             "tech"  : [ "HTML" , "CSS"  ," Bootstrap 4"],
             "view_links" : "https://mekadalibrahem.github.io/front-end/four-card-feature-section-master/index.html" ,
             "source_link" : "https://github.com/MekadAlibrahem/front-end/tree/master/four-card-feature-section-master"
@@ -19,7 +19,7 @@
         },
         {
             "title" : "huddle-landing-page-with-single-introductory-section " ,
-            "image" : "resources/images/huddle-landing-page-with-single-introductory-section-desktop-design.jpg" ,
+            "image" : "resources/images/components/huddle-landing-page-with-single-introductory-section-desktop-design.jpg" ,
             "tech"  : [ "HTML" , "CSS" ],
             "view_links" : "https://mekadalibrahem.github.io/front-end/huddle-landing-page-with-single-introductory-section-master/index.html" ,
             "source_link" : "https://github.com/MekadAlibrahem/front-end/tree/master/huddle-landing-page-with-single-introductory-section-master"
@@ -27,7 +27,7 @@
         },
         {
             "title" : "intro-component-with-signup-form" ,
-            "image" : "resources/images/intro-component-with-signup-form-master-desktop-design.jpg" ,
+            "image" : "resources/images/components/intro-component-with-signup-form-master-desktop-design.jpg" ,
             "tech"  : [ "HTML" , "CSS" ],
             "view_links" : "https://mekadalibrahem.github.io/front-end/intro-component-with-signup-form-master/index.html" ,
             "source_link" : "https://github.com/MekadAlibrahem/front-end/tree/master/intro-component-with-signup-form-master"
@@ -35,7 +35,7 @@
         },
         {
             "title" : "order-summary-component" ,
-            "image" : "resources/images/order-summary-component-main-desktop-preview.jpg" ,
+            "image" : "resources/images/components/order-summary-component-main-desktop-preview.jpg" ,
             "tech"  : [ "HTML" , "CSS" ],
             "view_links" : "https://mekadalibrahem.github.io/front-end/order-summary-component-main/index.html" ,
             "source_link" : "https://github.com/MekadAlibrahem/front-end/tree/master/order-summary-component-main"
@@ -43,7 +43,7 @@
         },
         {
             "title" : "profile-card-component" ,
-            "image" : "resources/images/profile-card-component-main-desktop-preview.jpg" ,
+            "image" : "resources/images/components/profile-card-component-main-desktop-preview.jpg" ,
             "tech"  : [ "HTML" , "CSS" ],
             "view_links" : "https://mekadalibrahem.github.io/front-end/profile-card-component-main/index.html" ,
             "source_link" : "https://github.com/MekadAlibrahem/front-end/tree/master/profile-card-component-main"
@@ -51,7 +51,7 @@
         },
         {
             "title" : "stats-preview-card" ,
-            "image" : "resources/images/stats-preview-card-component-main-desktop-design.jpg" ,
+            "image" : "resources/images/components/stats-preview-card-component-main-desktop-design.jpg" ,
             "tech"  : [ "HTML" , "CSS" ],
             "view_links" : "https://mekadalibrahem.github.io/front-end/stats-preview-card-component-main/index.html" ,
             "source_link" : "https://github.com/MekadAlibrahem/front-end/tree/master/stats-preview-card-component-main"
