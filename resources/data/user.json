@@ -9,6 +9,8 @@
         "contact" : {
             "github"   : "https://github.com/MekadAlibrahem" ,
             "linkedin" : "https://www.linkedin.com/in/mekad-alibrahem-55062b213/"
-        }
+        },
+        "image1" : "resources/images/logo.svg" 
+        
     }
 }
